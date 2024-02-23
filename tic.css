@@ -1,0 +1,58 @@
+body{
+    background-color:skyblue;
+   
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align:center;
+    font-family:'Sacramento', cursive;
+    font-size:70px;
+    color:black ;
+    
+}
+
+.tabl{
+  margin:auto;
+ 
+ 
+
+
+}
+.btn{
+    font-size:medium;
+    color:black;
+    height: 100px;
+    width:100px;
+    border-radius: 1rem;
+    background-color:white;
+}
+
+
+#Reset{
+    border-radius:1rem;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    display:block; 
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.top-cloud{
+    padding-left: 50px;
+    height:70px;
+    width: 200px;
+}
+
+.bottom-cloud{
+    padding-left: 1200px;
+    height:70px;
+    width: 200px;
+}
